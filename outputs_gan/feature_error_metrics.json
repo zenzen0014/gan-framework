@@ -1,0 +1,4 @@
+{
+    "status": "skipped",
+    "reason": "Embedding PCA dan feature-distance lintas kelas dinonaktifkan untuk GAN per kelas karena feature space tiap discriminator tidak comparable."
+}

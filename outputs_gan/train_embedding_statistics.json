@@ -1,0 +1,4 @@
+{
+    "status": "skipped",
+    "reason": "Train embedding statistics dinonaktifkan untuk GAN per kelas karena feature space tiap discriminator tidak comparable."
+}

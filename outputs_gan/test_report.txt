@@ -1,0 +1,12 @@
+Test Accuracy: 83.58%
+
+                      precision    recall  f1-score   support
+
+            cataract     1.0000    1.0000    1.0000       282
+diabetic_retinopathy     0.8903    0.8847    0.8875       321
+            glaucoma     0.7416    0.7038    0.7222       314
+              normal     0.7241    0.7674    0.7452       301
+
+            accuracy                         0.8358      1218
+           macro avg     0.8390    0.8390    0.8387      1218
+        weighted avg     0.8363    0.8358    0.8358      1218

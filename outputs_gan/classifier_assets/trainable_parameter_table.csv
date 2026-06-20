@@ -1,0 +1,21 @@
+Layer Name,Shape,Parameters,Trainable
+features.0.0.weight,"[32, 3, 3, 3]",864,True
+features.0.0.bias,[32],32,True
+features.0.1.weight,[32],32,True
+features.0.1.bias,[32],32,True
+features.2.0.weight,"[64, 32, 3, 3]",18432,True
+features.2.0.bias,[64],64,True
+features.2.1.weight,[64],64,True
+features.2.1.bias,[64],64,True
+features.4.0.weight,"[128, 64, 3, 3]",73728,True
+features.4.0.bias,[128],128,True
+features.4.1.weight,[128],128,True
+features.4.1.bias,[128],128,True
+features.6.0.weight,"[256, 128, 3, 3]",294912,True
+features.6.0.bias,[256],256,True
+features.6.1.weight,[256],256,True
+features.6.1.bias,[256],256,True
+classifier.2.weight,"[128, 256]",32768,True
+classifier.2.bias,[128],128,True
+classifier.5.weight,"[4, 128]",512,True
+classifier.5.bias,[4],4,True

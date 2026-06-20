@@ -1,0 +1,9 @@
+{
+    "best_val_generator_loss": {
+        "cataract": -0.16758051667815058,
+        "diabetic_retinopathy": -0.05920497220894166,
+        "glaucoma": 0.2588379998640581,
+        "normal": -0.17718889311100672
+    },
+    "checkpoint_root": "C:\\Users\\zendi\\Documents\\DeepLearning\\Pengolahan Citra Digital\\Augmentation GAN\\outputs_retina_contour256\\classwise_gans"
+}
