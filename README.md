@@ -8,7 +8,7 @@ Project ini sekarang memakai workflow dua tahap:
 4. Evaluasi akhir menampilkan confusion matrix, kurva loss/accuracy classifier, distribusi embedding discriminator, realism score, dan jarak fitur real-vs-sintetis.
 
 
-![banana ripeness GAN](./banana%20ripeness%20autoencoder.png)
+![banana ripeness GAN](./banana_augmentation_CGAN.png)
 
 
 ## Struktur dataset
